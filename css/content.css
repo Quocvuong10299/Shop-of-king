@@ -1,3 +1,4 @@
+
 .change-all ul{
     list-style: none;
     display: flex;
@@ -29,7 +30,7 @@
     margin-top: 3em;
 }
 .tutorial {
-    z-index: 3333;
+    z-index: 100;
     display: grid;
     grid-template-columns: auto auto auto;
     grid-template-rows: auto;
@@ -38,7 +39,6 @@
     padding:2em;
     justify-content: space-around;
     background-color: #fff;
-    position: relative;
     overflow: hidden;max-width: 100%;
 }
 .tutorial .tu img{

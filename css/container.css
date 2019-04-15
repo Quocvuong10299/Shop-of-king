@@ -13,6 +13,7 @@ button{
     cursor: pointer;
 }
 body{
+    width:100%;
     font-family: 'Ubuntu', sans-serif;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
